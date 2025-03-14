@@ -1,0 +1,30 @@
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\bin\Debug\net8.0\appsettings.json
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\bin\Debug\net8.0\MVC Agile Project.staticwebassets.runtime.json
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\bin\Debug\net8.0\MVC Agile Project.exe
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\bin\Debug\net8.0\MVC Agile Project.deps.json
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\bin\Debug\net8.0\MVC Agile Project.runtimeconfig.json
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\bin\Debug\net8.0\MVC Agile Project.dll
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\bin\Debug\net8.0\MVC Agile Project.pdb
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\MVC Agile Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\MVC Agile Project.AssemblyInfoInputs.cache
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\MVC Agile Project.AssemblyInfo.cs
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\MVC Agile Project.csproj.CoreCompileInputs.cache
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\MVC Agile Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\MVC Agile Project.RazorAssemblyInfo.cache
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\MVC Agile Project.RazorAssemblyInfo.cs
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\staticwebassets\msbuild.MVC Agile Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC Agile Project.props
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC Agile Project.props
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC Agile Project.props
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\scopedcss\bundle\MVC Agile Project.styles.css
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\scopedcss\projectbundle\MVC Agile Project.bundle.scp.css
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\MVC Agile Project.dll
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\refint\MVC Agile Project.dll
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\MVC Agile Project.pdb
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\MVC Agile Project.genruntimeconfig.cache
+C:\Users\birsi\RiderProjects\MVC Agile Project\MVC Agile Project\obj\Debug\net8.0\ref\MVC Agile Project.dll
